@@ -14,7 +14,7 @@ export default {
   
   data: () =>({
     form:{
-      email : "luishoyosolaya@gmail.com",
+      email : "test@gmail.com",
       password : "12345678",
     }
   }),
